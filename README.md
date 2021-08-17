@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project uses COINGECKO API that gives us current stats of various cryptocurrencies. This app has a smooth and responsive UI and also a SearchBar that can be used to search among various cryptocurrencies. 
+
 ## Available Scripts
 
 In the project directory, you can run:
